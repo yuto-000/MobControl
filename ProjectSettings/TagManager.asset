@@ -3,12 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Times
+  - Wall
+  - Range
+  - EnemyPos
+  - Special
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Generated
   - Water
   - UI
   - 
