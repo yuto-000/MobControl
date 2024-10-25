@@ -237,8 +237,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   anyTimes: 2
-  Object: {fileID: 6387231694316615146, guid: e2b196ca3c88fdf4cb7c5505a218f33a, type: 3}
-  s_Object: {fileID: 6387231694316615146, guid: 95d94751dc237d24daa8e6d158d2dae4, type: 3}
+  Object: {fileID: 7573174020366777469, guid: b7767468ba93fae40b170fe1958ba122, type: 3}
+  BigObject: {fileID: 7573174020366777469, guid: 14defa5a640c384449ec662006e85dfc, type: 3}
   time: 0
 --- !u!1 &3818101545260655428
 GameObject:

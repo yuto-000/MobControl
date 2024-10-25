@@ -9,6 +9,8 @@ TagManager:
   - Range
   - EnemyPos
   - Special
+  - Enemy
+  - Delete
   layers:
   - Default
   - TransparentFX
@@ -16,7 +18,7 @@ TagManager:
   - Generated
   - Water
   - UI
-  - 
+  - Player
   - 
   - 
   - 
